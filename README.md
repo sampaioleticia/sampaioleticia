@@ -4,18 +4,18 @@
 
 ### Professional Interests:
 
-🎨 Constant study in Figma and Adobe XD to enhance my design skills.
-📊 Deepening knowledge in algorithms, data structures, and computer fundamentals to improve code quality.
-💡 Exploration of new technologies and methodologies in software engineering.
+🎨 Constant study in Figma and Adobe XD to enhance my design skills. <br/>
+📊 Deepening knowledge in algorithms, data structures, and computer fundamentals to improve code quality.<br/>
+💡 Exploration of new technologies and methodologies in software engineering.<br/>
 
 ### What I do:
 
-📚 Always learning and improving my skills in software and work methodologies.
-🚀 Seeking innovative and challenging projects to apply my learning and continue growing professionally.
+📚 Always learning and improving my skills in software and work methodologies.<br/>
+🚀 Seeking innovative and challenging projects to apply my learning and continue growing professionally.<br/>
 
 ### My Goals:
 
-🌟 Developing efficient products that make a difference in users' lives.
+🌟 Developing efficient products that make a difference in users' lives.<br/>
 
 <div> 
   <a href = "mailto:capitanileticiats@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
