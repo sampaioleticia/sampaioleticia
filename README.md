@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🌍 Greetings, Earthlings!
 
-<!--
-**sampaioleticia/sampaioleticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍🎓 I'm a 6th phase Computer Science student at the Universidade do Estado de Santa Catarina, born and raised in Santa Catarina, Brazil. I'm a Front-end developer and UX/UI Designer, passionate about creating intuitive and responsive interfaces.
 
-Here are some ideas to get you started:
+Professional Interests:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Constant study in Figma and Adobe XD to enhance my design skills.
+📊 Deepening knowledge in algorithms, data structures, and computer fundamentals to improve code quality.
+💡 Exploration of new technologies and methodologies in software engineering.
+
+What I do:
+
+📚 Always learning and improving my skills in software and work methodologies.
+🚀 Seeking innovative and challenging projects to apply my learning and continue growing professionally.
+
+My Goals:
+
+🌟 Developing efficient products that make a difference in users' lives.
+
+<div> 
+  <a href = "mailto:capitanileticiats@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leticia-capitani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
