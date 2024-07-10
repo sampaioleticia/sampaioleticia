@@ -22,4 +22,5 @@
   <a href="https://www.linkedin.com/in/leticia-capitani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img src="dance.gif" alt="Dancing">
+<img src="dance.gif" alt="Penguin dancing" style="width: 200px; height: auto;">
+
