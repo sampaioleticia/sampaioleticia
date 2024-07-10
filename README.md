@@ -2,18 +2,18 @@
 
 👩‍🎓 I'm a 6th phase Computer Science student at the Universidade do Estado de Santa Catarina, born and raised in Santa Catarina, Brazil. I'm a Front-end developer and UX/UI Designer, passionate about creating intuitive and responsive interfaces.
 
-### Professional Interests:
+### Professional Interests
 
 🎨 Constant study in Figma and Adobe XD to enhance my design skills. <br/>
 📊 Deepening knowledge in algorithms, data structures, and computer fundamentals to improve code quality.<br/>
 💡 Exploration of new technologies and methodologies in software engineering.<br/>
 
-### What I do:
+### What I do
 
 📚 Always learning and improving my skills in software and work methodologies.<br/>
 🚀 Seeking innovative and challenging projects to apply my learning and continue growing professionally.<br/>
 
-### My Goals:
+### My Goals
 
 🌟 Developing efficient products that make a difference in users' lives.<br/>
 
