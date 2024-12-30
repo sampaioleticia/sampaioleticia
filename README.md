@@ -1,6 +1,6 @@
 ## 🌍 Greetings, Earthlings!
 
-👩‍🎓 I'm a 6th phase Computer Science student at the Universidade do Estado de Santa Catarina, born and raised in Santa Catarina, Brazil. I'm a Front-end developer and UX/UI Designer, passionate about creating intuitive and responsive interfaces.
+👩‍🎓 I'm a 7th phase Computer Science student at the Universidade do Estado de Santa Catarina, born and raised in Santa Catarina, Brazil. I'm a Front-end developer and UX/UI Designer, passionate about creating intuitive and responsive interfaces.
 
 ### Professional Interests
 
