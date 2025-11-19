@@ -19,13 +19,13 @@ I'm an 8th-phase Computer Science student at the State University of Santa Catar
 
 <div> 
   <a href="mailto:capitanileticiats@gmail.com"> 
-    <img src="https://img.shields.io/badge/📧_Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> 
+    <img src="https://img.shields.io/badge/_Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> 
   </a> 
   <a href="https://www.linkedin.com/in/leticia-capitani/" target="_blank"> 
-    <img src="https://img.shields.io/badge/💼_LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+    <img src="https://img.shields.io/badge/_LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
   <a href="https://capitani-en.framer.website" target="_blank"> 
-    <img src="https://img.shields.io/badge/🎨_UX_Portfolio-%235b7fff?style=for-the-badge&logo=figma&logoColor=white"> 
+    <img src="https://img.shields.io/badge/_UX_Portfolio-%235b7fff?style=for-the-badge&logo=figma&logoColor=white"> 
   </a>
 </div> 
 
