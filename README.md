@@ -1,27 +1,31 @@
 🌍 Greetings, Earthlings!
+
 I'm an 8th-phase Computer Science student at the State University of Santa Catarina, born and raised in Santa Catarina, Brazil. I'm a Front-end Developer and UX/UI Designer, passionate about creating intuitive and responsive interfaces.
 
-Professional Interests
+## Professional Interests
+
 🎨 Constantly studying Figma and Adobe XD to enhance my design skills.<br/>
 📊 Deepening knowledge in algorithms, data structures, and computer fundamentals to improve code quality.<br/>
 💡 Exploring new technologies and methodologies in software engineering.<br/>
 
-What I do
+## What I do
+
 📚 Always learning and improving my skills in software and work methodologies.<br/>
 🚀 Seeking innovative and challenging projects to apply my learning and continue growing professionally.<br/>
 
-My Goals
+## My Goals
+
 🌟 Developing efficient products that make a difference in users' lives.<br/>
 
 <div> 
   <a href="mailto:capitanileticiats@gmail.com"> 
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> 
+    <img src="https://img.shields.io/badge/📧_Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> 
   </a> 
   <a href="https://www.linkedin.com/in/leticia-capitani/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+    <img src="https://img.shields.io/badge/💼_LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
   <a href="https://capitani-en.framer.website" target="_blank"> 
-    <img src="https://img.shields.io/badge/-UX_Portfolio-%235b7fff?style=for-the-badge&logo=figma&logoColor=white"> 
+    <img src="https://img.shields.io/badge/🎨_UX_Portfolio-%235b7fff?style=for-the-badge&logo=figma&logoColor=white"> 
   </a>
 </div> 
 
