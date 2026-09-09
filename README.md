@@ -11,7 +11,6 @@ I'm a final year Computer Science student at Santa Catarina State University (UD
 ## What I do
 
 📚 Scientific Initiation Scholar (CNPq), researching motivation and engagement through gamification in the STEAMulando Futuros project.<br/>
-📝 Published research at the Brazilian Symposium on Computers in Education (SBIE) 2026 and the SBC's HCI in Practice track (2024).<br/>
 🚀 Building full stack tools to support my own research, from data dashboards to event applications.<br/>
 
 ## My Goals
